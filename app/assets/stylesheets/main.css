@@ -1,0 +1,47 @@
+h1 {
+  text-align: center;
+  color: orange;
+}
+body {
+background-color: #ddffaf;
+}
+
+img {
+width: 60%;
+height: 55%;
+padding-left: 230px;
+}
+
+.wrap {
+width: 100%;
+}
+
+.floatleft {
+float: left;
+width: 20%;
+ padding-top: 50px;
+ padding-bottom: 50px;
+padding-left: 120px;
+padding-right: 60px;
+}
+
+.floatcenter {
+float: left;
+width: 20%;
+ padding-top: 50px;
+    padding-bottom: 50px;
+        padding-right: 30px;
+
+}
+
+.floatright {
+float: left;
+width: 20%;
+ padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+    padding-right: 125px;
+}
+
+
+
